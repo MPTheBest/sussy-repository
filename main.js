@@ -5,5 +5,6 @@ http.createServer(function (req, res) {
   res.end();
 }).listen(3030);
 
-var num = 5;
+var num = 1;
 console.log(`variable: ${num}`);
+console.log(`the server started; https://localhost:3030`);

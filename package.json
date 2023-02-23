@@ -3,11 +3,14 @@
     "version": "1",
     "description": "nodesc",
     "main": "index.js",
-    "scripts": {
+    "author": "M1ss1onaryPoseTheBest",
+    "license": "ISC",
+
+
+        "scripts": {
         "help": "1. help - this command won't give you any material aid\n2. mainjs - will run \"main.js\"3. egg - only dev command",
         "amogus": "node main.js",
-        "egg": "oopsie woopsie! the command doesn't work yet! you can find more info in -> https://cs14.pikabu.ru/images/previews_comm/2021-07_2/1625736938184016081.png"
-    },
-    "author": "M1ss1onaryPoseTheBest",
-    "license": "ISC"
+        "egg": "oopsie woopsie! the command doesn't work yet! you can find more info in -> http://surl.li/famtw"
+    }
+
 }
