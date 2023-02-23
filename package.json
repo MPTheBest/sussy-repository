@@ -9,8 +9,9 @@
 
         "scripts": {
         "help": "1. help - this command won't give you any material aid\n2. mainjs - will run \"main.js\"3. egg - only dev command",
-        "amogus": "node main.js",
-        "egg": "oopsie woopsie! the command doesn't work yet! you can find more info in -> http://surl.li/famtw"
+        "main": "node main.js",
+        "egg": "oopsie woopsie! the command doesn't work yet! you can find more info in -> http://surl.li/famtw",
+        "server": "node server.js"
     }
 
 }

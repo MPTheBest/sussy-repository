@@ -7,7 +7,7 @@ http.createServer(function (req, res) {
 
 var num = 1;
 console.log(`variable: ${num}`);
-console.log(`the server started; https://localhost:3030`);
+console.log(`the server started; http://localhost:8080/`);
 
 const fs = require('fs');
 
