@@ -1,0 +1,12 @@
+{
+    "name": "api",
+    "version": "1",
+    "description": "nodesc",
+    "main": "index.js",
+    "scripts": {
+        "help": "echo 1. help - this command won't give you any material aid\n2. mainjs - will run \"main.js\"",
+        "amogus": "node main.js"
+    },
+    "author": "M1ss1onaryPoseTheBest",
+    "license": "ISC"
+}
